@@ -1,0 +1,10 @@
+src.HWSystem
+src.HWSystem.Devices
+src.HWSystem.Devices.Display
+src.HWSystem.Devices.MotorDriver
+src.HWSystem.Devices.Sensor
+src.HWSystem.Devices.Sensor.IMUSensor
+src.HWSystem.Devices.Sensor.TempSensor
+src.HWSystem.Devices.WirelessIO
+src.HWSystem.Protocols
+src.Main
